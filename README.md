@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/james0102/whitesource/_apis/build/status/Whitt.ContosoAir?branchName=master)](https://dev.azure.com/james0102/whitesource/_build/latest?definitionId=11&branchName=master)
 
 # Microsoft.Github CI Demo
 
